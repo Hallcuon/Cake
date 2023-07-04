@@ -10,4 +10,5 @@
 Вихідні дані: вивести час в годинах, за який гості разом можуть з’їсти пиріг. Результат округлити до 2 знаків після коми
 
 
-![Cake](https://github.com/Hallcuon/Cake/assets/128925948/ce0cbed4-e76e-4f73-865c-bf426ac0278e)
+
+![cake](https://github.com/Hallcuon/Cake/assets/128925948/c22a40ab-80cb-4759-a283-5a06ee9e0177)
