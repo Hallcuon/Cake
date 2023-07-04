@@ -11,5 +11,5 @@
 
 
 <div align="center">
- ![cake](https://github.com/Hallcuon/Cake/assets/128925948/c22a40ab-80cb-4759-a283-5a06ee9e0177)
+![cake](https://github.com/Hallcuon/Cake/assets/128925948/c22a40ab-80cb-4759-a283-5a06ee9e0177)
 </div>
