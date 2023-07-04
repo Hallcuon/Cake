@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/SecondThundeR/DokiDoki-RenPy/your-reality/readme_files/logos/ddlc_logo.png" width="256px" height="256px" alt="DDLC-Logo">
+ <img src="https://raw.githubusercontent.com/Hallcuon/Cake/0726ad9d500485c0d6db1b508d8012618e699135/ReadmeFiles/cake.png" alt="cake">
  <h1>Cake</h1>
   <blockquote><b>В честь свята приготували великий пиріг, на святі було 3 гостя. Перший гість може з’їсти пиріг за t1 годин, другий гість може з’їсти пиріг за t2 годин, третій гість може з'їсти пиріг за t3 годин. Скільки часу потрібно гостям щоб з’їсти один пиріг?</i></b></blockquote>
 </div>
